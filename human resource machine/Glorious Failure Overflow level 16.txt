@@ -1,0 +1,9 @@
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+    INBOX   
+a:
+    COPYTO   0
+    ADD      0
+    JUMP     a
+
+
